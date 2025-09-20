@@ -78,4 +78,4 @@ AI News Feed keeps employees updated on industry developments.
 ✔️ Provides real-time feedback mechanism.
 
 Youtube Link: 
-Project Demo:
+Project Demo: https://youtu.be/O_J9FAWT-KM
