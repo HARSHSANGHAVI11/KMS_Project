@@ -76,3 +76,6 @@ AI News Feed keeps employees updated on industry developments.
 ✔️ Preserves project updates and history.
 ✔️ Improves onboarding process for new employees.
 ✔️ Provides real-time feedback mechanism.
+
+Youtube Link: 
+Project Demo:
