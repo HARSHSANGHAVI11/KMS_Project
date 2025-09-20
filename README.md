@@ -12,6 +12,10 @@ Our solution – the AI Powered Knowledge Management System (KMS) – solves thi
 • Enable intelligent querying of documents and updates using AI-based question answering.
 • Maintain full history of updates and chat interactions.
 • Support HR with dashboards to track employee activity and provide feedback.
+• Get the compititor and get the post details adn company working through scrapping
+• Incident Blog automatically content writting.
+
+
 
 This helps ensure that project knowledge is retained within the organization, accessible by anyone at any time.
 
@@ -48,6 +52,13 @@ This helps ensure that project knowledge is retained within the organization, ac
  – View total feedback.
  – View employee performance statistics.
 
+✅ HR Dashboard
+ – Competitor Post details
+ – Current working and tredning topics
+
+ ✅ Incident Blog
+ – Employee should write only keyword and blog of 400-500 for now it will write the blog automatically witihi cr
+ 
 ⚙️ Technology Stack
 
 • Frontend & Backend: Streamlit
@@ -56,8 +67,9 @@ This helps ensure that project knowledge is retained within the organization, ac
 • Database: PostgreSQL for user and feedback data
 • Document Handling: python-docx for .docx files
 • AI News API: RapidAPI News API
-• Containerization: Docker (used for sales automation project but isolated)
-• Python Libraries: torch, faiss, psycopg2, bcrypt, pickle, os, datetime
+• Scrapping: Linkindin
+• Blog:LLama3
+• Python Libraries: torch, faiss, psycopg2, bcrypt, pickle, os, datetime and many more
 
 🚀 Workflow
 Employee logs in to the KMS portal.
@@ -67,6 +79,8 @@ Employees can submit structured updates with timestamps under various categories
 Employees can ask questions in natural language. System retrieves answers using vector similarity search.
 HR has a dashboard to track overall activity, manage feedback, and view uploaded files.
 AI News Feed keeps employees updated on industry developments.
+Trending topics find and work on that.
+Blog incident write during the project.
 
 🎯 Benefits
 
@@ -76,6 +90,10 @@ AI News Feed keeps employees updated on industry developments.
 ✔️ Preserves project updates and history.
 ✔️ Improves onboarding process for new employees.
 ✔️ Provides real-time feedback mechanism.
+✔️ No need to wriet the blog our tunneing model will make this for iincident and branding also.
+
 
 Youtube Link: 
 Project Demo: https://youtu.be/O_J9FAWT-KM
+Project Description Video:
+
